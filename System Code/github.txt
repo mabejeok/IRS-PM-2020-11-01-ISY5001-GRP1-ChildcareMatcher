@@ -1,0 +1,4 @@
+There are three systems in total for this project:-
+1. Parent recommendation system (Python/Flask system) - https://github.com/mabejeok/parent_recommendation_system
+2. KIE childcare matcher (Springboot with KIE) - https://github.com/mabejeok/kie_childcare_matcher
+3. Childcare matcher (Python/Flask system) - https://github.com/mabejeok/childcare_matcher
