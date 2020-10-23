@@ -7,39 +7,21 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-Choosing a child care centre for your little one is an important decision. If you are putting
-your child into care for the first time, it may be a stressful experience since you want what’s
-best for your child, but you don’t know where to start. It’s your child’s early experiences that
-will have a lasting impact on their future habits and resilience. This is why choosing a quality
-child care centre is essential.
+Choosing who to entrust your little one is an important decision. If you are putting your child into childcare for the first time, it may be a stressful experience since you want what is the best for your child, but you don’t know where to start. Your child’s early experiences will have a lasting impact on their future habits and resilience. This is why choosing a quality childcare centre is essential.
 
-Various aspects in choosing the best option includes determining the type of childcare service we are
-looking for, to find out the childcare services' philosophy and values, the teaching methods and learning
-activities that the child care centres encompass, the location of the centres, the type of meals
-given to the children and most importantly the child’s safety. How to tell if a childcare centre
-isn’t right for your child? Possibly by the reviews that we read on various forums to prevent
-ending up in a wrong childcare that is not suitable for your little one.
+There are various aspects in choosing the best option. This includes determining the type of childcare service i.e., full day or half day, finding out the childcare’s philosophy and values, their teaching methods, their location, what food are fed to the children, and last but certainly not least, how they ensure the child’s safety. Us parents spend endless hours scouring the Internet for information, fearful of making the wrong decision.
 
-Our team, comprising of four members, two among us are new parents, have faced these challenges
-and found the process hectic while choosing the best childcare for our little one. However to
-simplify this decision process we have chosen to create a recommendation system for the
-parents to key in their preferences and get the recommendations in one click without the need
-to surf through various forum discussion to get the reviews and other factors like choosing food
-and distance etc.
+Our team comprises of four members, amongst which two are new parents. We have faced these challenges and found the process difficult when choosing the best childcare for our little one. Hence, to simplify this decision process, we have chosen to create a recommendation system for the parents to key in their preferences and get the recommendations in one click without the need to surf through different childcare websites and various forums to get the information that we need.
 
-Our system aids for both the parents in choosing the child care centres as well as the child care
-centre in optimizing their waitlist for admission. We have performed the knowledge
-acquisition by short interviews through emails to the child care centres on our product. We
-have used the techniques and knowledge gained through lectures and hands-on experience to build this
-system, incorporate the KIE DROOLS for building the recommendation system and
-PYTHON FLASK for a UI integrating both the systems, Google APIs for distance and sentiment
-analysis of scrapped reviews. 
+During our childcare search process, we notice that things aren’t easy for the childcares as well. They must call us to check on our interest after we last placed our child on wait list, typically multiple times. Next, they would arrange a time for us to go down to the childcare and meet the principal and teacher(s). Lastly, they call again to check if we would like to take up the vacancy. A preliminary check with a childcare principal informs us that the situation has worsen since COVID-19, as they need to find a time to ensure the prospective parents do not meet the children in the childcare, limiting the time the parents can come down to the childcare.
 
-We had regular online meetings to discuss our progress, our team had challenging time
-sharing knowledge and helping out without physically meeting to accomplish tasks together
-due to the Covid-19 situation. Overall, we have good learning experience from each of the team member.
-We are overwhelmed with joy and gratitude to our lecturers and would like to share the
-insights of this project. 
+In view of these difficulties, we came up with a system that will benefit both the parents and childcare centres. A free parent-facing recommendation system will help the parents view a list of suitable childcares within minutes (complete with reviews!). When parents select suitable childcares, their options will flow to the childcare-facing childcare matching system, into the childcare wait list. As a service to the childcares, the waitlist will include predictions on how likely the parents will take up a vacancy so that the childcare centres can optimise the resources spent on each parent. In return, the childcare will pay us a nominal fee that will allow us to provide free services to the parents. 
+
+As parents ourselves, we do not want to short-change parents and would not recommend childcares to skip parents who are deems less likely to take up a vacancy. On the other hand, childcares may wish to spend less resources on parents who are less likely to accept a vacancy (e.g., if parents do not pick up calls, how many more calls before continuing to the next parent). This in turn benefits parents who are more likely to accept vacancies. 
+
+To build this system, we have contacted a childcare centre on whether they will take up our product, and with which they have given a positive response. We have also used knowledge from lectures and hands-on exercises to build this system. For instance, we have incorporated KIE Drools for building the parent-facing recommendation system and used rules, genetic algorithm and decision trees to provide predictions for the childcare-facing childcare matcher. 
+ 
+We have never met in person throughout this period due to the COVID-19 situation, though we had regular online meetings to discuss our progress. It was challenging, but we nevertheless had learnt a lot from each other. We are grateful to our lecturers and each other for this experience, and would like to take this opportunity to share our learnings.
 
 ---
 
