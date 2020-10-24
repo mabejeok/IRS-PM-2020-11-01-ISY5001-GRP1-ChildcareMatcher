@@ -31,7 +31,7 @@ We have never met in person throughout this period due to the COVID-19 situation
 | :------------ |:---------------:| :-----| :-----|
 | Ang Pau Huang, Edwin | A0195275U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0384906@u.nus.edu |
 | Cheok Mei Li | A0165420N | Domain expert for childcare recommender system. Built the Python-Flask and KIE System front-end and back-end, as well as MySQL database, with the help of other team members' on web scrapping, sentiment analysis and machine learning model. Crafted user guide and edited project report| e0167294@u.nus.edu |
-| Padmapriya Mathivanan | A0215281M | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0535371@u.nus.edu |
+| Padmapriya Mathivanan | A0215281M | Sentiment analysis of web scrapped data on childcare reviews. Documentation and knowledge gathering. | e0535371@u.nus.edu |
 | Priyansh Mishra | A0215340W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| priyansh@u.nus.edu |
 
 ---
