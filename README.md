@@ -44,19 +44,19 @@ We have never met in person throughout this period due to the COVID-19 situation
 ## SECTION 5 : USER GUIDE
 
 Please note that there are three systems in total for this project:
-* Childcare recommendation system for parents (Python/Flask) - ![GitHub URL](https://github.com/mabejeok/parent_recommendation_system)
-* KIE Internal system powering rules engine for the childcare recommendation system (Springboot)- ![GitHub URL](https://github.com/mabejeok/kie_childcare_matcher)
-* Childcare matcher for childcares, optimising waitlist (Python/Flask) - ![GitHub URL](https://github.com/mabejeok/childcare_matcher)
+* Childcare recommendation system for parents (Python/Flask) - [GitHub URL](https://github.com/mabejeok/parent_recommendation_system)
+* KIE Internal system powering rules engine for the childcare recommendation system (Springboot)- [GitHub URL](https://github.com/mabejeok/kie_childcare_matcher)
+* Childcare matcher for childcares, optimising waitlist (Python/Flask) - [GitHub URL](https://github.com/mabejeok/childcare_matcher)
 
-Refer to ![Childcare Matcher User Guide.pdf in GitHub Project Report folder](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/Project%20Report/Childcare%20Matcher%20User%20Guide.pdf). Essentially, these are the steps:
+Refer to [Childcare Matcher User Guide.pdf in GitHub Project Report folder](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/Project%20Report/Childcare%20Matcher%20User%20Guide.pdf). Essentially, these are the steps:
 * Step 1 - Get a Google API key with access to Distance Matrix API
 * Step 2 - Use Eclipse to set up KIE Internal system in iss-vm
-* Step 3 - Run ![shell script](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/System%20Code/mysql_python_rec_system.sh
+* Step 3 - Run [shell script](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/System%20Code/mysql_python_rec_system.sh
 ) for MySQL database and childcare recommendation system. 
-* Step 4 - Run ![shell script](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/System%20Code/python_cc_matcher.sh) for childcare matcher
+* Step 4 - Run [shell script](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/System%20Code/python_cc_matcher.sh) for childcare matcher
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-Refer to ![ProjectReport.pdf in GitHub Project Report folder](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/Project%20Report/ProjectReport.pdf)
+Refer to [ProjectReport.pdf in GitHub Project Report folder](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/Project%20Report/ProjectReport.pdf)
 
 ---
