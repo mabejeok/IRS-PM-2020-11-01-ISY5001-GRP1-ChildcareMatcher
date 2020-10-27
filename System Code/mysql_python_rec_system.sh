@@ -10,7 +10,7 @@ sudo apt install mysql-server
 apt policy mysql-server
 sudo systemctl enable --now mysql
 mysql -u root -p <<EOF
-# create database cc_schema;
+create database cc_schema;
 use cc_schema;
 EOF
 mysql -u root -p cc_schema < /home/iss-user/Downloads/childcare_matcher.sql
