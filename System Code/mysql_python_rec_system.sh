@@ -12,11 +12,12 @@ sudo systemctl enable --now mysql
 mysql -u root -p <<EOF
 create database cc_schema;
 use cc_schema;
+source /home/iss-user/Downloads/childcare_matcher.sql;
 EOF
-mysql -u root -p cc_schema < /home/iss-user/Downloads/childcare_matcher.sql
 git clone https://github.com/mabejeok/parent_recommendation_system
 source activate iss-env-py3
 cd /home/iss-user/Downloads/parent_recommendation_system
 pip install -r requirements.txt
 python main.py
+
 
