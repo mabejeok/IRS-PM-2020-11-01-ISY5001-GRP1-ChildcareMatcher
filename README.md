@@ -37,7 +37,7 @@ We have never met in person throughout this period due to the COVID-19 situation
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/jbIqk6Nwn60)
+[![Childcare Matcher](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/Video/childcare_video.png)](https://youtu.be/jbIqk6Nwn60)
 
 ---
 
