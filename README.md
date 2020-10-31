@@ -37,6 +37,7 @@ This project is done as part of the [Graduate Certificate in Intelligent Reasoni
 
 _HTML templates credit_
 * Childcare matcher login: https://codepen.io/Lewitje/pen/BNNJjo
+* Childcare recommendation system form: https://colorlib.com/wp/template/contact-form-v3/
 * Table templates for both childcare matcher and childcare recommendation system: https://startbootstrap.com/themes/freelancer/
 
 ---
