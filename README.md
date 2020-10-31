@@ -47,10 +47,11 @@ _HTML Bootstrap templates credit_
 
 ## SECTION 5 : USER GUIDE
 
-Please note that there are three systems in total for this project:
+Please note that there are three systems in total for this project + webscrapping/sentiment analysis code for scrapping/scoring reviews and updating the MySQL database:
 * Childcare recommendation system for parents (Python/Flask) - [GitHub URL](https://github.com/mabejeok/parent_recommendation_system)
 * KIE Internal system powering rules engine for the childcare recommendation system (Springboot)- [GitHub URL](https://github.com/mabejeok/kie_childcare_matcher)
 * Childcare matcher for childcares, optimising waitlist (Python/Flask) - [GitHub URL](https://github.com/mabejeok/childcare_matcher)
+* Webscrapping + Sentiment Analysis - https://github.com/padmapriya-mathivanan/IRS_PM1_Sentiments_Webscrapping
 
 Refer to [Childcare Matcher User Guide.pdf in GitHub Project Report folder](https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher/blob/main/Project%20Report/Childcare%20Matcher%20User%20Guide.pdf). Essentially, these are the steps:
 * Step 1 - Get a Google API key with access to Distance Matrix API
