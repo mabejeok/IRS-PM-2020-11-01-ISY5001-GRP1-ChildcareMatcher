@@ -34,6 +34,10 @@ We have never met in person throughout this period due to the COVID-19 situation
 | Padmapriya Mathivanan | A0215281M | Sentiment analysis of web scrapped data on childcare reviews. Documentation and knowledge gathering. | e0535371@u.nus.edu |
 | Priyansh Mishra | A0215340W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| priyansh@u.nus.edu |
 
+_HTML Bootstrap templates credit_
+* Childcare matcher login: https://codepen.io/Lewitje/pen/BNNJjo
+* Table templates for both childcare matcher and childcare recommendation system: https://startbootstrap.com/themes/freelancer/
+
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
