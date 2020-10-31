@@ -26,6 +26,7 @@ We have never met in person throughout this period due to the COVID-19 situation
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+This project is done as part of the [Graduate Certificate in Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems) series offered by NUS-ISS.
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
