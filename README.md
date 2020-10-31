@@ -47,7 +47,7 @@ _HTML templates credit_
 
 ## SECTION 5 : USER GUIDE
 
-Please note that there are three systems in total for this project + webscrapping/sentiment analysis code for scrapping/scoring reviews and updating the MySQL database:
+Please note that there are three systems in total for this project + webscrapping/sentiment analysis code for scrapping/scoring reviews and this will be updated in the MySQL database:
 * Childcare recommendation system for parents (Python/Flask) - [GitHub URL](https://github.com/mabejeok/parent_recommendation_system)
 * KIE Internal system powering rules engine for the childcare recommendation system (Springboot)- [GitHub URL](https://github.com/mabejeok/kie_childcare_matcher)
 * Childcare matcher for childcares, optimising waitlist (Python/Flask) - [GitHub URL](https://github.com/mabejeok/childcare_matcher)
